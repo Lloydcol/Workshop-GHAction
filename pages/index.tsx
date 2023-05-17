@@ -23,7 +23,7 @@ export default function Home() {
         </div>
 
         <div className={styles.center}>
-          <h1 className={inter.className}>Hello</h1>
+          <h1 className={inter.className}>Hello à tous</h1>
         </div>
 
         <div className={styles.grid}>
